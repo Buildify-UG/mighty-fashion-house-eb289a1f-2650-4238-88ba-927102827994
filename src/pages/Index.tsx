@@ -55,7 +55,9 @@ export default function Index() {
             <button className="text-sm hover:text-secondary transition">
               About
             </button>
-            <button className="text-sm hover:text-secondary transition">+2349123883402</button>
+            <button className="text-sm hover:text-secondary transition">
+              Contact
+            </button>
             <ShoppingBag className="w-5 h-5 cursor-pointer hover:text-secondary transition" />
           </div>
         </div>
@@ -252,7 +254,9 @@ export default function Index() {
               <p className="font-semibold mb-4 text-sm">Company</p>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>
-                  <a href="#" className="hover:text-secondary transition">+2349123883402</a>
+                  <a href="#" className="hover:text-secondary transition">
+                    About Us
+                  </a>
                 </li>
                 <li>
                   <a href="#" className="hover:text-secondary transition">
